@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Frederick Brunn
+   # Frederick Brunn <GitHub Username clotifoth>
    
    # Input:
    # p, principal amount
